@@ -1,3 +1,7 @@
+# Conversor Monetário
+
+## Projeto Desenvolvido durante o Curso Técnico do Senai de Desenvolvimento de Sistemas (2023-2024)
+
 App Flutter que serve para conversor monetário entre Reais, Doláres e Euro.
 
 APK: https://github.com/vitorh07/ConversorMonetario/blob/b1ef7a23990b2ee23cfadcf6c8144c1a3f62ee55/app-release.apk
